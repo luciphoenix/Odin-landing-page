@@ -13,10 +13,10 @@ h1{
     line-height: 1.1;
 }
 
-footer, header{
+header{
     background-color: #152937;
     color: #f9faf8;
-    padding: 10px 0;
+    padding: 10px 0 35px;
 }
 
 .nav, .info-container{
@@ -75,6 +75,6 @@ header .button{
     font-size: 15px;
 }
 
-/* .info-items img{
+.info-items img{
     object-fit: cover;
-} */
+}
