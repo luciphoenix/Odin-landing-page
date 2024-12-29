@@ -51,7 +51,7 @@ header{
 
 .info-container{
     gap: 3rem;
-    margin-top: 30px;
+    margin-top: 15px;
     justify-content: space-between;
 
 }
@@ -95,7 +95,7 @@ h2{
 }
 
 .cards{
-    width: 150px;
+    width: 200px;
     text-align: center;
 }
 
@@ -123,6 +123,8 @@ h2{
     justify-content: space-around;
     margin: 20px auto;
     padding: 20px;
+    border-radius: 10px;
+    gap: 57px;
 }
 
 .contact  button{
@@ -130,7 +132,9 @@ h2{
     border: 1px solid white;
     background-color: transparent;
     border-radius: 7px;
-    color: white;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    flex-shrink: 0;
 
 }
 
